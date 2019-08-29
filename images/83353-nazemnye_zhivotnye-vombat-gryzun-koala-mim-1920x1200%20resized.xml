@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>83353-nazemnye_zhivotnye-vombat-gryzun-koala-mim-1920x1200%20resized.jpg</filename>
+    <path>wombats-PascalVOC-export/Annotations/83353-nazemnye_zhivotnye-vombat-gryzun-koala-mim-1920x1200%20resized.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>550</width>
+        <height>300</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Wombat</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>199.38494934876988</xmin>
+        <ymin>50.49941976127321</ymin>
+        <xmax>468.8133140376266</xmax>
+        <ymax>259.38536140583557</ymax>
+    </bndbox>
+</object>
+</annotation>

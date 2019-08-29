@@ -1,0 +1,37 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>korotkosherstnyy-vombat-samka%20resized.jpg</filename>
+    <path>wombats-PascalVOC-export/Annotations/korotkosherstnyy-vombat-samka%20resized.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>550</width>
+        <height>300</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Wombat</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>18.306801736613604</xmin>
+        <ymin>75.96361074270557</ymin>
+        <xmax>264.2547033285094</xmax>
+        <ymax>255.80445954907162</ymax>
+    </bndbox>
+</object><object>
+    <name>Wombat</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>158.39363241678726</xmin>
+        <ymin>47.714273872679044</ymin>
+        <xmax>525.7235890014472</xmax>
+        <ymax>292.4092340848806</ymax>
+    </bndbox>
+</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>11_15%20resized.jpg</filename>
+    <path>wombats-PascalVOC-export/Annotations/11_15%20resized.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>550</width>
+        <height>300</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Wombat</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>81.58465991316932</xmin>
+        <ymin>21.05644893899204</ymin>
+        <xmax>492.2937771345876</xmax>
+        <ymax>262.96626326259945</ymax>
+    </bndbox>
+</object>
+</annotation>

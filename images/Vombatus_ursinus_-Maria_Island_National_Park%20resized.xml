@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>Vombatus_ursinus_-Maria_Island_National_Park%20resized.jpg</filename>
+    <path>wombats-PascalVOC-export/Annotations/Vombatus_ursinus_-Maria_Island_National_Park%20resized.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>550</width>
+        <height>300</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>Wombat</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>99.49348769898697</xmin>
+        <ymin>37.767324270557026</ymin>
+        <xmax>489.1099855282199</xmax>
+        <ymax>253.01931366047745</ymax>
+    </bndbox>
+</object>
+</annotation>
